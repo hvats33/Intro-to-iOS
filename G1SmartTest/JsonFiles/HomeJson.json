@@ -1,0 +1,155 @@
+
+[
+    {
+        "id": "1",
+        "title": "Practice Test 1",
+        "numberOfQuestions": "5",
+        "description": "Driving Rules",
+        "duration": "20 Min",
+        "questions":
+        [
+            {
+                "question": "How close can you park to fire hydrant?",
+                "questionNumber": "1",
+                "options":
+                {
+                    "optionA": "3 m",
+                    "optionB": "6 m",
+                    "optionC": "4.5 m",
+                    "optionD": "1.5 m"
+                },
+                "answer": "optionA"
+            },
+            {
+                "question": "At what point do you have to change to low beam headlights when your lights are required to be on?",
+                "questionNumber": "2",
+                "options":
+                {
+                    "optionA": "Within 300m of an oncoming vehicle",
+                    "optionB": "There is no set requirment",
+                    "optionC": "within 150 meters of an oncoming vehicle",
+                    "optionD": "within 1 KM of an oncoming vehicle"
+                },
+                "answer": "optionC"
+            },
+            {
+                "question": "Who gets the right-of-way if a traffic signal changes color while a pedestrian is crossing the street?",
+                "questionNumber": "3",
+                "options":
+                {
+                    "optionA": "The pedestrian",
+                    "optionB": "Motorists making a turn",
+                    "optionC": "Motorists coming from his right",
+                    "optionD": "Motorists comming from his left"
+                },
+                "answer": "optionA"
+            },
+            {
+                "question": "How quickly are obligated to report an accident to the police?",
+                "questionNumber": "4",
+                "options":
+                {
+                    "optionA": "Within 72 hours",
+                    "optionB": "Within 48 hours",
+                    "optionC": "Within 24 hours",
+                    "optionD": "Immediately"
+                },
+                "answer": "optionD"
+            },
+            {
+                "question": "What will happen if you are convicted of careless driving?",
+                "questionNumber": "5",
+                "options":
+                {
+                    "optionA": "All of these",
+                    "optionB": "Your licence may be suspended for up to two years",
+                    "optionC": "six demerit points",
+                    "optionD": "Can be finded up to $2,000 and sentenced to up to six months in jail"
+                },
+                "answer": "optionA"
+            }
+        ]
+    }, {
+        "id": "2",
+        "title": "Practice Test 2",
+        "numberOfQuestions": "10",
+        "description": "Driving Rules",
+        "duration": "21 Min",
+        "questions":
+        [
+            {
+                "question": "How close can you park to fire hydrant?",
+                "questionNumber": "1",
+                "options":
+                {
+                    "optionA": "3 m",
+                    "optionB": "6 m",
+                    "optionC": "4.5 m",
+                    "optionD": "1.5 m"
+                },
+                "answer": "optionA"
+            },
+            {
+                "question": "At what point do you have to change to low beam headlights when your lights are required to be on?",
+                "questionNumber": "2",
+                "options":
+                {
+                    "optionA": "Within 300m of an oncoming vehicle",
+                    "optionB": "There is no set requirment",
+                    "optionC": "within 150 meters of an oncoming vehicle",
+                    "optionD": "within 1 KM of an oncoming vehicle"
+                },
+                "answer": "optionC"
+            },
+            {
+                "question": "Who gets the right-of-way if a traffic signal changes color while a pedestrian is crossing the street?",
+                "questionNumber": "3",
+                "options":
+                {
+                    "optionA": "The pedestrian",
+                    "optionB": "Motorists making a turn",
+                    "optionC": "Motorists coming from his right",
+                    "optionD": "Motorists comming from his left"
+                },
+                "answer": "optionA"
+            },
+            {
+                "question": "How quickly are obligated to report an accident to the police?",
+                "questionNumber": "4",
+                "options":
+                {
+                    "optionA": "Within 72 hours",
+                    "optionB": "Within 48 hours",
+                    "optionC": "Within 24 hours",
+                    "optionD": "Immediately"
+                },
+                "answer": "optionD"
+            },
+            {
+                "question": "What will happen if you are convicted of careless driving?",
+                "questionNumber": "5",
+                "options":
+                {
+                    "optionA": "All of these",
+                    "optionB": "Your licence may be suspended for up to two years",
+                    "optionC": "six demerit points",
+                    "optionD": "Can be finded up to $2,000 and sentenced to up to six months in jail"
+                },
+                "answer": "optionA"
+            },
+            {
+                "question": "What will happen if you are convicted of careless driving?",
+                "questionNumber": "6",
+                "options":
+                {
+                    "optionA": "All of these",
+                    "optionB": "Your licence may be suspended for up to two years",
+                    "optionC": "six demerit points",
+                    "optionD": "Can be finded up to $2,000 and sentenced to up to six months in jail"
+                },
+                "answer": "optionA"
+            }
+        ]
+    }
+    
+]

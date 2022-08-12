@@ -1,0 +1,18 @@
+
+
+[
+    {
+        "id": "1",
+        "title": "Drive Test Brampton",
+        "lat": "43.6778816",
+        "lng": "-79.717052",
+        "Time/Distance": "20 Min/ 10 KM"
+    },
+    {
+      "id": "2",
+      "title": "Drive Test Barrie",
+      "lat": "44.3301781",
+      "lng": "-79.6922252",
+      "Time/Distance": "25 Min/ 15 KM"
+    }
+]
